@@ -5,7 +5,7 @@ Real Time Object Detection on webcam using OpenCV with YOLOv3 weights and COCO D
 
 ## Clone this repo using this link 
 
-
+https://github.com/girish008/Real-Time-Object-Detection-Using-YOLOv3-OpenCV.git
 
 ## Get the YOLOv3 Weights into the models dir
 
